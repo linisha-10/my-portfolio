@@ -1,0 +1,12 @@
+---
+title: "About Me"
+---
+
+Hello! I’m Linisha, a Web Developer with experience in building full-stack applications.\
+I love designing clean UIs and writing efficient backend code.
+
+**Skills:** - Web Development\
+- Frontend (HTML, CSS, JavaScript, React)\
+- Backend (Node.js, Express)\
+- Database (MySQL, MongoDB)\
+- Web Designing

@@ -1,0 +1,20 @@
+---
+format: html
+---
+
+# Welcome to My Portfolio {.whole-class}
+
+::::: columns
+::: {.column width="30%"}
+![](images/linisha.jpg){fig-align="center"}
+:::
+
+::: {.column width="50%"}
+## Hi, I'm Linisha
+
+I’m a passionate Web Developer who loves building modern, responsive, and user-friendly websites.\
+With a strong focus on clean code and creative design, I enjoy turning ideas into interactive digital experiences that work seamlessly across all devices.
+
+[See My Work](projects.qmd){.btn .btn-primary}
+:::
+:::::

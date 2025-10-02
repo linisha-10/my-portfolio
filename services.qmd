@@ -1,0 +1,32 @@
+# My Services {.whole-card}
+
+I provide end-to-end web development solutions tailored to your needs. From designing a clean user interface to building a powerful backend, I make sure every project is efficient, scalable, and visually appealing.
+
+Here’s what I can help you with:
+
+:::::::: services-container
+::: card
+**Web Development**\
+Building complete websites from scratch, ensuring they are modern, responsive, and user-friendly.
+:::
+
+::: card
+**Frontend Development**\
+Crafting beautiful and interactive interfaces using HTML, CSS, JavaScript, and React.
+:::
+
+::: card
+**Backend Development**\
+Developing reliable server-side applications with Node.js, Express, and integrating APIs.
+:::
+
+::: card
+**Database Management**\
+Designing and managing databases using MySQL and MongoDB for secure and fast performance.
+:::
+
+::: card
+**Web Designing**\
+Creating clean, attractive layouts and ensuring smooth user experiences through thoughtful UI/UX design.
+:::
+::::::::

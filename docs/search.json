@@ -1,0 +1,100 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Welcome to My Portfolio",
+    "section": "",
+    "text": "I’m a passionate Web Developer who loves building modern, responsive, and user-friendly websites.\nWith a strong focus on clean code and creative design, I enjoy turning ideas into interactive digital experiences that work seamlessly across all devices.\nSee My Work"
+  },
+  {
+    "objectID": "services.html",
+    "href": "services.html",
+    "title": "My Services",
+    "section": "",
+    "text": "My Services\nI provide end-to-end web development solutions tailored to your needs. From designing a clean user interface to building a powerful backend, I make sure every project is efficient, scalable, and visually appealing.\nHere’s what I can help you with:\n\n\nWeb Development\nBuilding complete websites from scratch, ensuring they are modern, responsive, and user-friendly.\n\n\nFrontend Development\nCrafting beautiful and interactive interfaces using HTML, CSS, JavaScript, and React.\n\n\nBackend Development\nDeveloping reliable server-side applications with Node.js, Express, and integrating APIs.\n\n\nDatabase Management\nDesigning and managing databases using MySQL and MongoDB for secure and fast performance.\n\n\nWeb Designing\nCreating clean, attractive layouts and ensuring smooth user experiences through thoughtful UI/UX design."
+  },
+  {
+    "objectID": "services.html#web-development",
+    "href": "services.html#web-development",
+    "title": "My Services",
+    "section": "🌐 Web Development",
+    "text": "🌐 Web Development\nBuilding complete websites from scratch, ensuring they are modern, responsive, and user-friendly."
+  },
+  {
+    "objectID": "services.html#frontend-development",
+    "href": "services.html#frontend-development",
+    "title": "My Services",
+    "section": "🎨 Frontend Development",
+    "text": "🎨 Frontend Development\nCrafting beautiful and interactive interfaces using HTML, CSS, JavaScript, and React."
+  },
+  {
+    "objectID": "services.html#backend-development",
+    "href": "services.html#backend-development",
+    "title": "My Services",
+    "section": "⚙️ Backend Development",
+    "text": "⚙️ Backend Development\nDeveloping reliable server-side applications with Node.js, Express, and integrating APIs."
+  },
+  {
+    "objectID": "services.html#database-management",
+    "href": "services.html#database-management",
+    "title": "My Services",
+    "section": "🗄️ Database Management",
+    "text": "🗄️ Database Management\nDesigning and managing databases using MySQL and MongoDB for secure and fast performance."
+  },
+  {
+    "objectID": "services.html#web-designing",
+    "href": "services.html#web-designing",
+    "title": "My Services",
+    "section": "🖌️ Web Designing",
+    "text": "🖌️ Web Designing\nCreating clean, attractive layouts and ensuring smooth user experiences through thoughtful UI/UX design.\n\nWhether it’s a personal portfolio, a business website, or a custom application,\nI can help you bring your ideas to life with a balance of creativity and technical expertise."
+  },
+  {
+    "objectID": "contact.html",
+    "href": "contact.html",
+    "title": "Get in Touch",
+    "section": "",
+    "text": "Get in Touch\nThank you for visiting my portfolio!\nIf you’d like to collaborate on a project, discuss new opportunities, or simply say hello, feel free to reach out.\nI’d love to hear from you.\nEmail: linishaa102@gmail.com\nLinkedIn: linkedin.com/in/linisha10/\nGitHub: github.com/linisha\nLooking forward to connecting with you!"
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About Me",
+    "section": "",
+    "text": "Hello! I’m Linisha, a Web Developer with experience in building full-stack applications.\nI love designing clean UIs and writing efficient backend code.\nSkills: - Web Development\n- Frontend (HTML, CSS, JavaScript, React)\n- Backend (Node.js, Express)\n- Database (MySQL, MongoDB)\n- Web Designing"
+  },
+  {
+    "objectID": "projects.html",
+    "href": "projects.html",
+    "title": "My Projects",
+    "section": "",
+    "text": "My Projects\n\n\nRestaurant Website\nA fully responsive restaurant website with an online menu, booking system, chef profiles, customer feedback, and integration with social media for promotions.\n\n\nNCC Agro Industries Website\nAn informational and service-based site for an agro-industries company. Includes service descriptions, product catalog, team profiles, news updates, and a contact form for inquiries.\n\n\nTech Blog Platform\nA dynamic blog platform for tech enthusiasts with categories, comment sections, syntax highlighting for code snippets, and responsive design for all devices.\n\n\nPortfolio Showcase\nA personal portfolio website featuring a gallery of works, interactive project previews, skill sections, and a downloadable resume for clients and recruiters.\n\n\nE-commerce Store\nA fully functional online store with product listings, shopping cart, payment gateway integration, order tracking, and customer reviews.\n\n\nMobile App Landing Page\nA sleek landing page for a mobile app including feature highlights, download links, video demo, testimonials, and a subscription form for updates.\n\n\nOnline Learning Platform\nA learning management system with course catalog, quizzes, progress tracking, video lectures, and user dashboards for students and teachers.\n\n\nNGO Awareness Website\nAn informational site for an NGO with mission statements, donation integration, volunteer signup forms, news updates, and event calendars."
+  },
+  {
+    "objectID": "projects.html#restaurant-website",
+    "href": "projects.html#restaurant-website",
+    "title": "My Projects",
+    "section": "",
+    "text": "A fully responsive restaurant website with online menu and booking features."
+  },
+  {
+    "objectID": "projects.html#hair-ncc",
+    "href": "projects.html#hair-ncc",
+    "title": "My Projects",
+    "section": "",
+    "text": "A modern website for a hair & beauty service business."
+  },
+  {
+    "objectID": "projects.html#agro-industries-website",
+    "href": "projects.html#agro-industries-website",
+    "title": "My Projects",
+    "section": "",
+    "text": "An informational and service-based site for an agro-industries company."
+  },
+  {
+    "objectID": "index.html#hi-im-linisha",
+    "href": "index.html#hi-im-linisha",
+    "title": "Welcome to My Portfolio",
+    "section": "",
+    "text": "I’m a passionate Web Developer who loves building modern, responsive, and user-friendly websites.\nWith a strong focus on clean code and creative design, I enjoy turning ideas into interactive digital experiences that work seamlessly across all devices.\nSee My Work"
+  }
+]

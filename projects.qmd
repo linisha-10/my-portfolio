@@ -1,0 +1,43 @@
+# My Projects
+
+::::::::::: projects-container
+::: card
+**Restaurant Website**\
+A fully responsive restaurant website with an online menu, booking system, chef profiles, customer feedback, and integration with social media for promotions.
+:::
+
+::: card
+**NCC Agro Industries Website**\
+An informational and service-based site for an agro-industries company. Includes service descriptions, product catalog, team profiles, news updates, and a contact form for inquiries.
+:::
+
+::: card
+**Tech Blog Platform**\
+A dynamic blog platform for tech enthusiasts with categories, comment sections, syntax highlighting for code snippets, and responsive design for all devices.
+:::
+
+::: card
+**Portfolio Showcase**\
+A personal portfolio website featuring a gallery of works, interactive project previews, skill sections, and a downloadable resume for clients and recruiters.
+:::
+
+::: card
+**E-commerce Store**\
+A fully functional online store with product listings, shopping cart, payment gateway integration, order tracking, and customer reviews.
+:::
+
+::: card
+**Mobile App Landing Page**\
+A sleek landing page for a mobile app including feature highlights, download links, video demo, testimonials, and a subscription form for updates.
+:::
+
+::: card
+**Online Learning Platform**\
+A learning management system with course catalog, quizzes, progress tracking, video lectures, and user dashboards for students and teachers.
+:::
+
+::: card
+**NGO Awareness Website**\
+An informational site for an NGO with mission statements, donation integration, volunteer signup forms, news updates, and event calendars.
+:::
+:::::::::::
