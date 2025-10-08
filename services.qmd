@@ -1,32 +1,45 @@
-# My Services {.whole-card}
+---
+page-layout: full
+---
 
-I provide end-to-end web development solutions tailored to your needs. From designing a clean user interface to building a powerful backend, I make sure every project is efficient, scalable, and visually appealing.
+<section class="services-section">
 
-Here’s what I can help you with:
+:::::: container
 
-:::::::: services-container
-::: card
-**Web Development**\
-Building complete websites from scratch, ensuring they are modern, responsive, and user-friendly.
+<p class="hello">
+— SERVICES
+</p>
+
+
+<h3>What [I Provide ]{.highlighter}</h3>
+
+<p class="service-intro">
+I will develop designs that appeal to your desired clients while effectively communicating your message.  
+You can acquire professionally made graphics and persuasive collateral that can be utilized in almost any application by using our graphic design and development services.
+</p>
+
+:::::: services-grid
+
+::: service-card
+<div class="service-icon"><i class="fas fa-code"></i></div>
+<h3>Frontend Development</h3>
+<p>Building responsive, modern, and interactive user interfaces using the latest technologies.</p>
 :::
 
-::: card
-**Frontend Development**\
-Crafting beautiful and interactive interfaces using HTML, CSS, JavaScript, and React.
+::: service-card
+<div class="service-icon"><i class="fas fa-server"></i></div>
+<h3>Backend Development</h3>
+<p>Creating secure and scalable server-side applications with efficient API integration.</p>
 :::
 
-::: card
-**Backend Development**\
-Developing reliable server-side applications with Node.js, Express, and integrating APIs.
+::: service-card
+<div class="service-icon"><i class="fas fa-database"></i></div>
+<h3>Database Management</h3>
+<p>Designing and maintaining optimized databases for reliable and fast data access.</p>
 :::
 
-::: card
-**Database Management**\
-Designing and managing databases using MySQL and MongoDB for secure and fast performance.
-:::
+::::::
 
-::: card
-**Web Designing**\
-Creating clean, attractive layouts and ensuring smooth user experiences through thoughtful UI/UX design.
-:::
-::::::::
+::::::
+
+</section>

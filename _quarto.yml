@@ -1,23 +1,29 @@
 project:
   type: website
-  output-dir: docs   
 
 website:
   title: "Linisha | Portfolio"
   navbar:
     left:
-      - href: index.qmd
-        text: Home
-      - href: about.qmd
-        text: About
-      - href: projects.qmd
-        text: Projects
-      - href: services.qmd
-        text: Services
-      - href: contact.qmd
-        text: Contact
+      - text: "HOME"
+        href: "#home"
+      - text: "ABOUT" 
+        href: "#about"
+      - text: "SERVICES"
+        href: "#services"
+      - text: "SKILLS"
+        href: "#skills"
+      - text: "PROJECTS"
+        href: "#projects"
+      - text: "CONTACT"
+        href: "#contact"
+    right:
+      - text: "Get Started"
+        href: "#contact"
+
 format:
   html:
-    theme: cosmo
+    theme: flatly
     css: styles.css
-    
+    toc: false
+    page-layout: full

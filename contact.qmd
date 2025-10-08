@@ -1,13 +1,43 @@
-# Get in Touch
+---
+page-layout: full
+---
 
-Thank you for visiting my portfolio!\
-If you’d like to **collaborate on a project**, discuss new opportunities, or simply say hello, feel free to reach out.\
-I’d love to hear from you.
+<section class="contact-section">
 
-**Email:** linishaa102\@gmail.com
+:::::: container
+<h3>Let’s [Work Together]{.highlighter}</h3>
 
-**LinkedIn:** [linkedin.com/in/linisha10/](https://www.linkedin.com/in/linisha10/)
+<h6 class="contact-intro">
 
-**GitHub:** [github.com/linisha](https://github.com/linisha-10)
+I take my time, I don’t force things I just feel and absorb emotions that are floating around. I capture moments as they come.
 
-Looking forward to connecting with you!
+</h6>
+
+<form class="contact-form">
+
+::: form-group
+<label for="name">Your Name</label> <input type="text" id="name" placeholder="Enter your name" required>
+:::
+
+::: form-group
+<label for="email">Your Email</label> <input type="email" id="email" placeholder="Enter your email" required>
+:::
+
+::: form-group
+<label for="message">Write your message</label>
+
+```{=html}
+<textarea id="message" rows="5" placeholder="Type your message..." required></textarea>
+```
+:::
+
+<button type="submit" class="send-btn">
+
+Send Message
+
+</button>
+
+</form>
+::::::
+
+</section>

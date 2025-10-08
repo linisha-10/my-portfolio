@@ -4,7 +4,7 @@
     "href": "index.html",
     "title": "Welcome to My Portfolio",
     "section": "",
-    "text": "I’m a passionate Web Developer who loves building modern, responsive, and user-friendly websites.\nWith a strong focus on clean code and creative design, I enjoy turning ideas into interactive digital experiences that work seamlessly across all devices.\nSee My Work"
+    "text": "Hi, I'm Linisha\n    \n      I’m a passionate Web Developer who loves building modern, responsive, and user-friendly websites.\n      With a strong focus on clean code and creative design, I enjoy turning ideas into interactive digital\n      experiences that work seamlessly across all devices.\n    \n    See My Work"
   },
   {
     "objectID": "services.html",
@@ -60,7 +60,7 @@
     "href": "about.html",
     "title": "About Me",
     "section": "",
-    "text": "Hello! I’m Linisha, a Web Developer with experience in building full-stack applications.\nI love designing clean UIs and writing efficient backend code.\nSkills: - Web Development\n- Frontend (HTML, CSS, JavaScript, React)\n- Backend (Node.js, Express)\n- Database (MySQL, MongoDB)\n- Web Designing"
+    "text": "I am Linisha, a passionate Web Developer with a strong focus on building modern, responsive, and user-friendly websites. I enjoy bringing ideas to life through clean code, creative design, and seamless functionality. My goal is to create digital solutions that not only look great but also deliver excellent performance and usability."
   },
   {
     "objectID": "projects.html",
@@ -93,8 +93,29 @@
   {
     "objectID": "index.html#hi-im-linisha",
     "href": "index.html#hi-im-linisha",
-    "title": "Welcome to My Portfolio",
+    "title": "Home",
     "section": "",
     "text": "I’m a passionate Web Developer who loves building modern, responsive, and user-friendly websites.\nWith a strong focus on clean code and creative design, I enjoy turning ideas into interactive digital experiences that work seamlessly across all devices.\nSee My Work"
+  },
+  {
+    "objectID": "about.html#education",
+    "href": "about.html#education",
+    "title": "About Me",
+    "section": "Education",
+    "text": "Education\nPonjesly College of Engineering Nagercoil\nUnder Graduate in Information Technology\nPonjesly College of Engineering Bachelor’s in Information Technology | 2021 – 2025"
+  },
+  {
+    "objectID": "about.html#experience",
+    "href": "about.html#experience",
+    "title": "About Me",
+    "section": "Experience",
+    "text": "Experience\nGeo Sensing and Image Consultancy Web Developer | June 2025 – Present"
+  },
+  {
+    "objectID": "about.html#title-linisha-about-template-jolla-image-profile.jpg-links---icon-twitter-text-twitter-href-httpstwitter.com---icon-github-text-github-href-httpsgithub.com",
+    "href": "about.html#title-linisha-about-template-jolla-image-profile.jpg-links---icon-twitter-text-twitter-href-httpstwitter.com---icon-github-text-github-href-httpsgithub.com",
+    "title": "Linisha | Portfolio",
+    "section": "",
+    "text": "I am Linisha, a passionate Web Developer with a strong focus on creating modern, responsive, and user-friendly websites. I love combining clean code with creative design to bring ideas to life."
   }
 ]

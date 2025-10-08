@@ -1,12 +1,18 @@
 ---
-title: "About Me"
+about:
+  id: hero-heading
+  template: jolla
+  image: images/linisha.jpg
+  links:
+    - icon: twitter
+      text: twitter
+      href: https://twitter.com
+    - icon: github
+      text: Github
+      href: https://github.com
 ---
 
-Hello! I’m Linisha, a Web Developer with experience in building full-stack applications.\
-I love designing clean UIs and writing efficient backend code.
-
-**Skills:** - Web Development\
-- Frontend (HTML, CSS, JavaScript, React)\
-- Backend (Node.js, Express)\
-- Database (MySQL, MongoDB)\
-- Web Designing
+::: {#hero-heading}
+I’m a passionate Web Developer who loves building modern, responsive, and user-friendly websites.\
+With a strong focus on clean code and creative design, I enjoy turning ideas into interactive digital experiences that work seamlessly across all devices.
+:::

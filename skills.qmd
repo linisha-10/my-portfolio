@@ -1,0 +1,66 @@
+---
+page-layout: full
+format:
+  html:
+    css: skills.css
+    include-in-header:
+      - text: |
+          <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.0/css/all.min.css">
+---
+
+<section class="skills-section">
+
+::: container
+<h4>— SKILLS</h4>
+
+<h1>[I Develop Skills Regularly]{.highlight-text}<br>To Keep Me Update</h1>
+
+<h6 class="skills-intro">
+
+I take my time to learn new technologies and stay up-to-date with the latest tools in web development.I focus on clean code, performance, and design consistency.
+
+</h6>
+
+<ul class="skills-list">
+
+-   Building responsive interfaces using React & Tailwind CSS.
+-    Writing scalable backend APIs with Node.js & MongoDB.
+-   Following latest JavaScript & CSS trends.
+-    Delivering optimized full-stack web applications.
+
+</ul>
+
+<a href="cv.pdf" class="download-btn">Download CV</a>
+:::
+
+:::::::::: skills-icons
+::: hex
+<i class="fa-brands fa-react"></i>
+:::
+
+::: hex
+<i class="fa-brands fa-html5"></i>
+:::
+
+::: hex
+<i class="fa-brands fa-css3-alt"></i>
+:::
+
+::: hex
+<i class="fa-brands fa-js"></i>
+:::
+
+::: hex
+<i class="fa-brands fa-node-js"></i>
+:::
+
+::: hex
+<i class="fa-solid fa-wind"></i>
+:::
+
+::: hex
+<i class="fa-solid fa-database"></i>
+:::
+::::::::::
+
+</section>
